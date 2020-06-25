@@ -1,3 +1,3 @@
 # terraform-aws-asg
 
-AWS-Auto-Scaling-Group
+Amazon Web Services -Auto-Scaling-Group
